@@ -1,0 +1,5 @@
+name: KingLibs
+version: 0.0
+description: Collection of useful libs
+author: kingbirdy
+main: me.philipiv.libs.LibsMain
